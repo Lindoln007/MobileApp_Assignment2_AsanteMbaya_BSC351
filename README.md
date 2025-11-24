@@ -15,7 +15,7 @@ The primary objective of the BPTracker application is to provide users with a si
 
 | Dashboard | Add Reading | History | Chart View |
 |:---:|:---:|:---:|:---:|
-| ![image alt](https://github.com/Lindoln007/MobileApp_Assignment2_AsanteMbaya_BSC351/blob/ea65120e519579732988adefee3becbd0ea3a753/Screenshot_2025-11-24-20-51-27-108_com.example.bptracker.jpg) | ![image alt](https://github.com/Lindoln007/MobileApp_Assignment2_AsanteMbaya_BSC351/blob/7a343df1b435f6ea48061457ad98e4e33a081438/Screenshot_2025-11-24-20-51-34-316_com.example.bptracker.jpg) | ![image alt](https://github.com/Lindoln007/MobileApp_Assignment2_AsanteMbaya_BSC351/blob/e4d2e4a479f173beed8501d47686d5089981a410/Screenshot_2025-11-24-20-51-44-598_com.example.bptracker.jpg) | ![Chart View](screenshots/chart.png) |
+| ![image alt](https://github.com/Lindoln007/MobileApp_Assignment2_AsanteMbaya_BSC351/blob/ea65120e519579732988adefee3becbd0ea3a753/Screenshot_2025-11-24-20-51-27-108_com.example.bptracker.jpg) | ![image alt](https://github.com/Lindoln007/MobileApp_Assignment2_AsanteMbaya_BSC351/blob/7a343df1b435f6ea48061457ad98e4e33a081438/Screenshot_2025-11-24-20-51-34-316_com.example.bptracker.jpg) | ![image alt](https://github.com/Lindoln007/MobileApp_Assignment2_AsanteMbaya_BSC351/blob/e4d2e4a479f173beed8501d47686d5089981a410/Screenshot_2025-11-24-20-51-44-598_com.example.bptracker.jpg) | ![image alt](https://github.com/Lindoln007/MobileApp_Assignment2_AsanteMbaya_BSC351/blob/64474ba1d24557e63264960d982226b963ba0e91/Screenshot_2025-11-24-20-51-48-854_com.example.bptracker.jpg) |
 
 *(Note: Please add screenshots to a `screenshots` folder in the root directory and name them accordingly, or update the paths above.)*
 
