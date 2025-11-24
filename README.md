@@ -15,7 +15,7 @@ The primary objective of the BPTracker application is to provide users with a si
 
 | Dashboard | Add Reading | History | Chart View |
 |:---:|:---:|:---:|:---:|
-| ![Dashboard](screenshots/dashboard.png) | ![Add Reading](screenshots/add_reading.png) | ![History](screenshots/history.png) | ![Chart View](screenshots/chart.png) |
+| ![image alt](https://github.com/Lindoln007/MobileApp_Assignment2_AsanteMbaya_BSC351/blob/ea65120e519579732988adefee3becbd0ea3a753/Screenshot_2025-11-24-20-51-27-108_com.example.bptracker.jpg) | ![Add Reading](screenshots/add_reading.png) | ![History](screenshots/history.png) | ![Chart View](screenshots/chart.png) |
 
 *(Note: Please add screenshots to a `screenshots` folder in the root directory and name them accordingly, or update the paths above.)*
 
